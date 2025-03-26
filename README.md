@@ -40,7 +40,7 @@
 ![KimDeveloper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimdeveloper&show_icons=true&theme=tokyonight)
 
 ## 📫 연락처
-📧 이메일: kimdeveloper@example.com  
+📧 이메일: mint52231021@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/kimdeveloper) | [포트폴리오](https://kimdeveloper.dev)
 
 ---
