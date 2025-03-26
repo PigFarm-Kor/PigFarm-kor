@@ -35,13 +35,3 @@
 💡 **배운 점 & 기여:**
    - 반응형 웹 디자인을 적용하며 다양한 디바이스에서 최적의 UX를 제공하는 방법을 배웠습니다.
    - GitHub Actions를 이용해 자동 배포 환경을 구축하여 CI/CD 개념을 익혔습니다.
-
-## 📊 GitHub 통계
-![KimDeveloper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimdeveloper&show_icons=true&theme=tokyonight)
-
-## 📫 연락처
-📧 이메일: mint52231021@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/kimdeveloper) | [포트폴리오]([https://kimdeveloper.dev](https://github.com/PigFarm-Kor/PigFarm-kor/blob/main/README.md))
-
----
-⭐️ From [KimDeveloper](https://github.com/kimdeveloper)
