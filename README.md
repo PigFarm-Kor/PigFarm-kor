@@ -41,7 +41,7 @@
 
 ## 📫 연락처
 📧 이메일: mint52231021@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/kimdeveloper) | [포트폴리오](https://kimdeveloper.dev)
+🔗 [LinkedIn](https://linkedin.com/in/kimdeveloper) | [포트폴리오]([https://kimdeveloper.dev](https://github.com/PigFarm-Kor/PigFarm-kor/blob/main/README.md))
 
 ---
 ⭐️ From [KimDeveloper](https://github.com/kimdeveloper)
